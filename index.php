@@ -23,7 +23,7 @@ include 'template/sidebar.php';
                     <div class="image d-grid">
                         <img src="gambar/regalo.gif" class="img" width="300" alt="gambar">
                         <br>
-                        <button class="btn btn-primary mt-8">Claim</button>
+                        <button class="btn btn-primary mt-8">Buka</button>
                     </div>
                 </a>
             </div>

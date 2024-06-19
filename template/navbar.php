@@ -16,10 +16,10 @@
                 </button>
             </div>
         </div>
-        <marquee behavior="scroll" direction="20%">Capek Capek ngoding malah di </marquee>
     </form>
 
     <!-- Topbar Navbar -->
+    <marquee behavior="scroll" direction="20%">Capek Capek ngoding malah di suruh </marquee>
     <ul class="navbar-nav ml-auto">
 
         <!-- Nav Item - Search Dropdown (Visible Only XS) -->

@@ -39,8 +39,8 @@ $matkul = queryMatkul("SELECT * FROM matkul");
                 ?>
                 <!-- End of Topbar -->
                 <div class="container m-3">
-                <a href="/tugas"><i class="fa fa-home"></i> Home</a> /<b>MatKul</b>
-                    <center><b> <h3 style="font-weight: bold">DATA MatKul</h3></b></center>
+                <a href="/tugas"><i class="fa fa-home"></i> Home</a> /<b>MATKUL</b>
+                    <center><b> <h3 style="font-weight: bold">DATA MATKUL</h3></b></center>
                     <a href="create.php" class="btn btn-primary mb-4">Add <i class="fa fa-plus"></i></a>
                     <!-- tempat tabel -->
                     <table class="table table-striped table-responsiv">

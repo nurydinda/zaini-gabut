@@ -2,7 +2,7 @@
     <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
 <!-- Sidebar - Brand -->
-<a class="sidebar-brand d-flex align-items-center justify-content-center" href="/zaini">
+<a class="sidebar-brand d-flex align-items-center justify-content-center" href="/tugas">
     <div class="sidebar-brand-icon ">
         <i class="fas fa-laugh-wink"></i>
 
@@ -47,7 +47,7 @@
 <!-- Heading -->
 <!-- Nav Item - Dashboard -->
 <li class="nav-item active">
-    <a class="nav-link" href="/zaini">
+    <a class="nav-link" href="/tugas">
         <i class="fas fa-fw fa-tachometer-alt"></i>
         <span>Dashboard</span>
     </a>
@@ -56,16 +56,26 @@
 
 <!-- Nav Item - Tables -->
 <li class="nav-item">
-    <a class="nav-link" href="/zaini/dosen">
+    <a class="nav-link" href="/tugas/dosen">
         <i class="fas fa-fw fa-user"></i>
         <span>DOSEN</span></a>
 </li>
 
 <!-- Nav Item - Charts -->
 <li class="nav-item">
-    <a class="nav-link" href="/zaini/mahasiswa">
+    <a class="nav-link" href="/tugas/mahasiswa">
         <i class="fas fa-fw fa-users"></i>
         <span>MAHASISWA</span></a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/tugas/matkul">
+        <i class="fas fa-fw fa-users"></i>
+        <span>MATA KULIAH</span></a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/tugas/index2.php">
+        <i class="fas fa-fw fa-users"></i>
+        <span>KRS</span></a>
 </li>
 
 
@@ -79,8 +89,8 @@
     <div id="collapsePages" class="collapse" aria-labelledby="headingPages" data-parent="#accordionSidebar">
         <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Screens:</h6>
-            <a class="collapse-item" href="/zaini/krs">KRS</a>
-            <a class="collapse-item" href="/zaini/matkul">MATA KULIAH</a>
+            <a class="collapse-item" href="/tugas/krs">KRS</a>
+            <a class="collapse-item" href="/tugas/matkul">MATA KULIAH</a>
         </div>
     </div>
     </li>
